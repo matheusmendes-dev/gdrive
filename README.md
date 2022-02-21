@@ -38,7 +38,7 @@ You will be prompted for a new verification code if the folder does not exist.
 ### Downloads
 | Filename               | Version | Description        | Shasum                                   |
 |:-----------------------|:--------|:-------------------|:-----------------------------------------|
-| [gdrive-linux-amd64](https://docs.google.com/uc?id=1fbORiRWzIJx3p1qsbSZA43fp2pL5gq_y&export=download) | 2.1.0 | Linux amd 64-bit |
+| [gdrive-linux-amd64](https://docs.google.com/uc?id=1Kty_ufbWIXabYFkr-WysWPNxxQqPfHpw&export=download) | 2.1.0 | Linux amd 64-bit |
 
 ## Compile from source
 ```bash
